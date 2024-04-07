@@ -11,7 +11,7 @@ const {
 	handleViewAllCommand,
 	handleAddTimeCommand,
 } = require("../utils/handleLicenseCmd");
-const { PermissionsBitField, PermissionFlagsBits } = require("discord.js");
+const { PermissionFlagsBits } = require("discord.js");
 
 const licenseOptionObj = {
 	name: "license",
