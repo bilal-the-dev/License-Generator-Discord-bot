@@ -36,7 +36,7 @@ client.on("ready", async (readyClient) => {
 
 		console.log("Connected to database! 📅");
 
-		cron.schedule("* * * * *", checkForLicenses);
+		cron.schedule("*/5 * * * *", checkForLicenses);
 
 		checkForLicenses();
 	} catch (err) {
