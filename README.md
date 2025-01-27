@@ -1,7 +1,7 @@
 # WHAT DOES THE BOT DO?
 
 A discord bot to generate hundreds of license for a role, whoever redeems the license will get the role. A license has expiry, after which the role is removed.
-Other commands, for deleting license, banning a license and extending the expiry duration.
+Other commands, for deleting license, banning a license and extending the expiry duration. Use the `make-exe.bat` to create an exe application.
 
 ## Social Media link
 
